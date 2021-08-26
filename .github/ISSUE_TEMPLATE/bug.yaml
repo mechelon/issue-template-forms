@@ -32,7 +32,7 @@ body:
         - Local
         - Remote (Server)
         - Remote (Docker)
-        - Somewhere else (please specify in the description then!)
+        - Somewhere else (please specify in the description!)
     validations:
       required: true
   - type: textarea
