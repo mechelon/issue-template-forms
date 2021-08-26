@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Feature Request
+description: Propose a new feature for Tinkerwell
 title: "[Feature Request]: "
 labels: [feature request]
 body:
